@@ -101,8 +101,7 @@ Je crois en :
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-HACKEE-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/HACKEE)
-[![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hackee_fr)
-[![Discord](https://img.shields.io/badge/Discord-available-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=0d1117)](https://discord.gg/hackee_fr)
+[![Discord](https://img.shields.io/badge/Discord-available-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=0d1117)](https://discord.gg/HACKEE)
 
 </div>
 
