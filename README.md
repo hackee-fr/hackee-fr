@@ -73,6 +73,19 @@ Passionné par la **construction d’infrastructures robustes**, le **développe
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=HACKEE&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKEE&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HACKEE&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41" />
+
+</div>
+
+<!--
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HACKEE&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKEE&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
@@ -80,7 +93,7 @@ Passionné par la **construction d’infrastructures robustes**, le **développe
 ![GitHub Streak](https://streak-stats.demolab.com?user=HACKEE&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41)
 
 </div>
-
+-->
 -----
 
 ## `$ cat philosophy.txt`
